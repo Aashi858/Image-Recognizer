@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(Violet,springgreen);
+}
+.heading{
+    width: 90%;
+}
+#webcam{
+    border-width: 5px;
+    border-style: groove;
+    width: 400px;
+    height: 300px;
+}
+.Label{
+    height: 10px;
+    width: 50%;
+}
